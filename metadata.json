@@ -1,0 +1,6 @@
+{
+  "name": "AirVista",
+  "description": "Platform monitoring kualitas udara dan analisis lingkungan realtime berbasis AI dengan visualisasi data, peta polusi interaktif, dan rekomendasi kesehatan.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
